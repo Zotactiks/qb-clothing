@@ -1,5 +1,6 @@
 # qb-clothing
 Clothing for QB-Core Framework :dress:
+Reskinned!
 
 # License
 
